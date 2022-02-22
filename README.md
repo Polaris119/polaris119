@@ -12,5 +12,5 @@ CSDN：[https://blog.csdn.net/qq_44921056](https://blog.csdn.net/qq_44921056)
 
 ![](https://komarev.com/ghpvc/?username=Polaris119)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
